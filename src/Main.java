@@ -6,5 +6,12 @@ public class Main {
     public static void main(String[] args) {
 
     }
+   static boolean isValid(String s) {
+       HashMap<String,Integer> map=new HashMap<String,Integer>();
 
+        for( int i = 0; i < s.length(); i++){
+
+        }
+       return false;
+   }
 }
